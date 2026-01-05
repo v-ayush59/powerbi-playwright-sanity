@@ -1,4 +1,4 @@
-import { DefaultAzureCredential, TokenCredential } from "@azure/identity";
+import { DefaultAzureCredential, ClientSecretCredential, TokenCredential } from "@azure/identity";
 import fetch from "node-fetch";
 
 export interface TestSettings {
@@ -8,15 +8,32 @@ export interface TestSettings {
   federatedCredentialName?: string;
 }
 
-// Get Access Token using federated credentials
+// Get Access Token using appropriate credential method
 export async function getAccessToken(settings: TestSettings): Promise<string> {
-  const credential: TokenCredential = new DefaultAzureCredential();
+  let credential: TokenCredential;
+  
+  // Check if running in CI/CD with client secret
+  const clientSecret = process.env.AZURE_CLIENT_SECRET || process.env.CLIENT_SECRET;
+  
+  if (clientSecret) {
+    // Use ClientSecretCredential for CI/CD environments
+    console.log("Using ClientSecretCredential for authentication");
+    credential = new ClientSecretCredential(
+      settings.tenantId,
+      settings.clientId,
+      clientSecret
+    );
+  } else {
+    // Use DefaultAzureCredential for local development
+    console.log("Using DefaultAzureCredential for authentication");
+    credential = new DefaultAzureCredential();
+  }
+  
   const scope = "https://analysis.windows.net/powerbi/api/.default";
-
   const accessToken = await credential.getToken(scope);
 
   if (!accessToken || !accessToken.token) {
-    throw new Error("Failed to get access token via federated credentials.");
+    throw new Error("Failed to get access token.");
   }
 
   return accessToken.token;

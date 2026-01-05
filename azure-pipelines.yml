@@ -14,9 +14,6 @@ schedules:
 pool:
   vmImage: 'ubuntu-latest'
 
-variables:
-  - group: powerbi-test-secrets  # Variable group containing secrets
-
 steps:
 - task: NodeTool@0
   displayName: 'Install Node.js'
@@ -34,6 +31,8 @@ steps:
   env:
     CLIENT_ID: $(CLIENT_ID)
     TENANT_ID: $(TENANT_ID)
+    CLIENT_SECRET: $(CLIENT_SECRET)
+    AZURE_CLIENT_SECRET: $(CLIENT_SECRET)
     FEDERATED_CREDENTIAL_NAME: $(FEDERATED_CREDENTIAL_NAME)
     ENVIRONMENT: $(ENVIRONMENT)
     TEAMS_WEBHOOK_URL: $(TEAMS_WEBHOOK_URL)
