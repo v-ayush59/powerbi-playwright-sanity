@@ -1,0 +1,82 @@
+test_case,report_name,workspace_id,report_id,page_id,bookmark_id,dataset_ids
+test_case_1,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,ReportSection732980064ec695024617,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_2,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,ReportSection7b31a1abbd011a4825ce,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_3,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,ReportSectioneba58f4ef9d588f1229d,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_4,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,ReportSectionae832ae9bd2bee860ea5,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_5,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,ReportSection5ab8beb2b968489ed7a5,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_6,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,ReportSection1b1b54ce5454d8f51f4e,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_7,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,ReportSection6a0b5850ede635b1a191,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_8,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,a985baa857b8cc1eb444,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_9,Workshop Impact Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f6f965b1-0ece-4567-86dd-3491b3a9acec,ReportSectionb007e1bad5c115937b4a,,9a166c3a-91bd-4c2d-ab3d-e6fc7f4a1bd0
+test_case_10,Special Investments Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,8930393d-5b31-4772-a567-57d82de246e0,ReportSectionac93d6226d6486d9d5a9,,1ccfcb4e-16dc-4b88-af09-48f82655d447
+test_case_11,Special Investments Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,8930393d-5b31-4772-a567-57d82de246e0,ReportSection,,1ccfcb4e-16dc-4b88-af09-48f82655d447
+test_case_12,Special Investments Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,8930393d-5b31-4772-a567-57d82de246e0,ReportSection0fc4832bc0cab204829d,,1ccfcb4e-16dc-4b88-af09-48f82655d447
+test_case_13,Special Investments Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,8930393d-5b31-4772-a567-57d82de246e0,ReportSection570456ef71baf5ecb64a,,1ccfcb4e-16dc-4b88-af09-48f82655d447
+test_case_14,Special Investments Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,8930393d-5b31-4772-a567-57d82de246e0,ReportSection28a79bd494e60ad6bcae,,1ccfcb4e-16dc-4b88-af09-48f82655d447
+test_case_15,Special Investments Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,8930393d-5b31-4772-a567-57d82de246e0,ReportSectiondc04a989e02027200600,,1ccfcb4e-16dc-4b88-af09-48f82655d447
+test_case_16,Telco Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,774abbd0-1f32-4c53-9aa1-3334f828d04d,ReportSection,,758b8276-7f92-4f39-947e-01d59d3b4f2f
+test_case_17,Telco Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,774abbd0-1f32-4c53-9aa1-3334f828d04d,ReportSection11a216be9d7a2fd8c842,,758b8276-7f92-4f39-947e-01d59d3b4f2f
+test_case_18,Biz Apps MSX Pipeline,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,6c102706-654f-46fb-b1c1-c0cb467d99d3,ReportSection41f41f4d67d1085dde12,,1a86777f-ad66-4419-8823-07554d058190
+test_case_19,Biz Apps MSX Pipeline,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,6c102706-654f-46fb-b1c1-c0cb467d99d3,6299cc15806546095d9d,,1a86777f-ad66-4419-8823-07554d058190
+test_case_20,Biz Apps MSX Pipeline,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,6c102706-654f-46fb-b1c1-c0cb467d99d3,2c9fc4d2cd204248d8d9,,1a86777f-ad66-4419-8823-07554d058190
+test_case_21,Biz Apps MSX Pipeline,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,6c102706-654f-46fb-b1c1-c0cb467d99d3,a2313a66ca8a4add14b2,,1a86777f-ad66-4419-8823-07554d058190
+test_case_22,Biz Apps MSX Pipeline,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,6c102706-654f-46fb-b1c1-c0cb467d99d3,6f23203be87156f3ac7c,,1a86777f-ad66-4419-8823-07554d058190
+test_case_23,Biz Apps MSX Pipeline,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,6c102706-654f-46fb-b1c1-c0cb467d99d3,c3cf54c238b90186a225,,1a86777f-ad66-4419-8823-07554d058190
+test_case_24,Biz Apps MSX Pipeline,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,6c102706-654f-46fb-b1c1-c0cb467d99d3,b19962cfecd56650e1e6,,1a86777f-ad66-4419-8823-07554d058190
+test_case_25,Post Sales Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,b92e5fe3-d89f-417a-8328-7466281a706d,ReportSection5c45367b2b23e98ae22b,,48b59f21-a1ab-4760-98d4-47928a282175
+test_case_26,Partner Contribution Analysis,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f962ecc5-67c9-403a-aad3-70d0fcdb747e,ab27314fdbb8715cfa9f,,0e2ba296-bbc6-47e8-8820-2f4c8dd1fd32
+test_case_27,Partner Contribution Analysis,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,f962ecc5-67c9-403a-aad3-70d0fcdb747e,43972355f4c746f850ab,,0e2ba296-bbc6-47e8-8820-2f4c8dd1fd32
+test_case_28,GTM Field Allocations,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,201a0646-17ef-4c61-9212-0622f4b0ada8,a427cba730fd01bdebc7,,83141b46-9a56-4f06-8eef-580190adef4a
+test_case_29,Jumpstart Partner Usage Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,7708c165-e20f-44f1-818c-9ff1fb60b8b0,f9aedf3bb9ba630e7df6,,74b544d8-a7b3-4634-9022-5fce385d7c25
+test_case_30,Partner Performance Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,dfb08d08-6f7a-4848-83bd-9b47f210d8b5,4f8422f2027959ece473,,ca5ab26a-595f-45f2-88a1-b9c2f28c1416
+test_case_31,Partner Performance Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,dfb08d08-6f7a-4848-83bd-9b47f210d8b5,5d3a823241967401e051,,ca5ab26a-595f-45f2-88a1-b9c2f28c1416
+test_case_32,Partner Performance Dashboard,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,dfb08d08-6f7a-4848-83bd-9b47f210d8b5,f12fae00b0dc4cbe2ebb,,ca5ab26a-595f-45f2-88a1-b9c2f28c1416
+test_case_33,Teams Phone Qualified Tenants,a64d2312-c3af-4f1a-96e3-b6bdd8c91cee,4887aa51-a678-4c77-84ec-0d69420df64a,355ef81c426542c0a733,,7eae3fb6-942c-4437-9eee-027072c38a1f
+test_case_34,Access Instructions,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,806535a7-2ada-4997-aec5-f90e3eafaf5c,19cc69d1b098a4e4625a,,6c7090df-c126-467c-9b11-30d0965235a7
+test_case_35,Access Instructions,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,806535a7-2ada-4997-aec5-f90e3eafaf5c,ReportSectionb69b5bfd82774a4047d6,,6c7090df-c126-467c-9b11-30d0965235a7
+test_case_36,Access Instructions,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,806535a7-2ada-4997-aec5-f90e3eafaf5c,ReportSection,,6c7090df-c126-467c-9b11-30d0965235a7
+test_case_37,Biz Apps Claim Rejections,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,6aebed99-e645-4328-95a3-54877064cfd4,ReportSection5c45367b2b23e98ae22b,,c59e6d73-8ef7-4e01-9508-f18ab8f1584f
+test_case_38,Biz Apps Partner Eligibility Criteria,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,aa01152f-8b94-4647-8481-28d8e2a6bf54,ReportSection174fb14d429fdbd59c19,,996cb862-4cfa-4a7b-9c53-20f4ede240d1
+test_case_39,Biz Apps Partner Eligibility Criteria,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,aa01152f-8b94-4647-8481-28d8e2a6bf54,7f1abf7a9d00cec0a008,,996cb862-4cfa-4a7b-9c53-20f4ede240d1
+test_case_40,Bulk Request Reporting,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,d7874276-6896-4a15-bc1d-d63e8e26ea67,ReportSectiond9092eb9514860858e10,,484f94fc-ebc3-4058-9091-c2eaf1646952
+test_case_41,CSI Customer Eligibility Report,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,d7874276-6896-4a15-bc1d-d63e8e26ea67,ReportSection98c5cbabeb6c0a39e204,,aed6665a-7719-4f1a-a0a8-7206dce701cc
+test_case_42,Field Initiated Requests,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,76e29e75-bd3d-4540-8bac-46efb7795eea,ReportSection049ecf83f9546a199586,,9ac74084-daa1-40d2-a99a-3b7a8a223472
+test_case_43,FY26 Partner and Customer Eligibility,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,f105d3ae-a834-42d3-9e9b-ad2fab5da305,c2b285cdedaf4401cc1e,,4554b3c5-719c-4f89-97db-93542d31b580
+test_case_44,FY26 Partner and Customer Eligibility,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,f105d3ae-a834-42d3-9e9b-ad2fab5da305,ReportSection43a2ff108c9f583ac2d8,,4554b3c5-719c-4f89-97db-93542d31b580
+test_case_45,FY26 Partner and Customer Eligibility,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,f105d3ae-a834-42d3-9e9b-ad2fab5da305,ReportSection049b124c066a3b142b09,,4554b3c5-719c-4f89-97db-93542d31b580
+test_case_46,FY26 Partner and Customer Eligibility,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,f105d3ae-a834-42d3-9e9b-ad2fab5da305,6b78681fb5ec0aef3f0f,,4554b3c5-719c-4f89-97db-93542d31b580
+test_case_47,FY26 Partner and Customer Eligibility,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,f105d3ae-a834-42d3-9e9b-ad2fab5da305,c6f0bd6915c9050993da,,4554b3c5-719c-4f89-97db-93542d31b580
+test_case_48,MCI Eligibility and Enrollment Report,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,49d5ee54-f82f-4322-98ec-9522580beee1,ReportSection174fb14d429fdbd59c19,,02241620-8d0e-4c90-9d39-a14ade3c4af0
+test_case_49,MCI Eligibility and Enrollment Report,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,49d5ee54-f82f-4322-98ec-9522580beee1,ReportSection5c45367b2b23e98ae22b,,02241620-8d0e-4c90-9d39-a14ade3c4af0
+test_case_50,MCI Eligibility and Enrollment Report,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,49d5ee54-f82f-4322-98ec-9522580beee1,1429acd47b50660d00d4,,02241620-8d0e-4c90-9d39-a14ade3c4af0
+test_case_51,MCI Eligibility and Enrollment Report,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,49d5ee54-f82f-4322-98ec-9522580beee1,ReportSection6f6b994a9989f18df23f,,02241620-8d0e-4c90-9d39-a14ade3c4af0
+test_case_52,MW Platform Cost,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,604cf827-f9d3-400a-b8a6-8e88759dec7b,ReportSection,,e8f7ac09-780b-4991-8719-cea81f774ad2
+test_case_53,MW Platform Cost,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,604cf827-f9d3-400a-b8a6-8e88759dec7b,ReportSectione614e2dd9284c7722cd7,,e8f7ac09-780b-4991-8719-cea81f774ad2
+test_case_54,MWS Data Freshness Report,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,9b066cf2-6231-4c38-ad72-4ed357e2e8ff,ReportSection,,2392885b-fa51-4071-8fec-f27b27d50e07
+test_case_55,SP Milestone 2 Payment Dashboard,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,1df326f7-6f9b-472e-a5fe-524dc964f7b2,00403e0e347181d24ce8,,ebcb46af-6955-4cd1-96f1-c1f23353a50c
+test_case_56,SP Milestone 2 Payment Dashboard,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,1df326f7-6f9b-472e-a5fe-524dc964f7b2,edf199747e0014bde7c6,,ebcb46af-6955-4cd1-96f1-c1f23353a50c
+test_case_57,SP Milestone 2 Payment Dashboard,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,1df326f7-6f9b-472e-a5fe-524dc964f7b2,ReportSection825f8dff37dca2cefeea,,ebcb46af-6955-4cd1-96f1-c1f23353a50c
+test_case_58,SP Milestone 2 Payment Dashboard,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,1df326f7-6f9b-472e-a5fe-524dc964f7b2,ReportSectionbf9c6d6b0aca64a4a997,,ebcb46af-6955-4cd1-96f1-c1f23353a50c
+test_case_59,SP Milestone 2 Payment Dashboard,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,1df326f7-6f9b-472e-a5fe-524dc964f7b2,ReportSection1045b4a587c75200033a,,ebcb46af-6955-4cd1-96f1-c1f23353a50c
+test_case_60,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSectionf50e24af31ab4a592e39,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_61,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSectionb050b67eeb86bab30ac5,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_62,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSection23dcf5e0454e84aedc47,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_63,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSection2ac15128c0d93591a514,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_64,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSection2e90b97b20bd900107c7,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_65,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSectionfe1da397d3f4cbac03a0,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_66,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSection7b34aeceae91b9f5b659,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_67,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSection488f18c35fd7f8e03ac9,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_68,Workshop Execution Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,5254a1e8-e2dc-47bf-b842-25400a3615a9,ReportSectionf48c9d193970b8888961,,0d8eb0c3-9571-4d65-a57b-ef7854135d3b
+test_case_69,Workshop Survey Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,921e940e-8064-4f57-b741-aa9e16c3fa15,ReportSection2c97509dc47a939685d3,,bc4e9ed2-f9b4-4bb6-b716-64d34941d65b
+test_case_70,Workshop Survey Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,921e940e-8064-4f57-b741-aa9e16c3fa15,ReportSection0a1b2c73086de6f9df5d,,bc4e9ed2-f9b4-4bb6-b716-64d34941d65b
+test_case_71,Workshop Survey Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,921e940e-8064-4f57-b741-aa9e16c3fa15,2c1d224e95200909a940,,bc4e9ed2-f9b4-4bb6-b716-64d34941d65b
+test_case_72,Workshop Survey Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,921e940e-8064-4f57-b741-aa9e16c3fa15,ReportSection767bcc82b08bd5b09da7,,bc4e9ed2-f9b4-4bb6-b716-64d34941d65b
+test_case_73,Workshop Survey POE,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,1f130e57-50e2-4bf4-85b4-97765654f823,2c06e5f253e74c09780b,,ccb50cf0-1fd8-4d40-9a8a-a49394b633f1
+test_case_74,Partner Adoption Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,b266a265-24a7-44c3-b04c-918e833d88f2,ReportSection5c45367b2b23e98ae22b,,09209271-1551-4d27-ac87-fdf599834e5a
+test_case_75,Partner Adoption Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,b266a265-24a7-44c3-b04c-918e833d88f2,d38183c5a1b086884dd1,,09209271-1551-4d27-ac87-fdf599834e5a
+test_case_76,Partner Adoption Insights,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,b266a265-24a7-44c3-b04c-918e833d88f2,7c06166c254be212c579,,09209271-1551-4d27-ac87-fdf599834e5a
+test_case_77,Biz Apps Cap Limit,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,a38e850c-8858-49b0-aeec-539ba882de59,ReportSection5c45367b2b23e98ae22b,,cfd6ab29-367d-4445-aba0-dc4218ac4bbc
+test_case_78,Partner Claims Limit Analysis,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,97cb23bd-ca51-4f7d-b964-156674406bd5,ReportSection5c45367b2b23e98ae22b,,9264284d-80df-4f4c-a3b2-cbb96d201dd1
+test_case_79,Rev Sum SKU Mapping Report,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,7a732735-bc93-458b-b34b-e1f49ffcaf9b,ReportSection,,915beb8e-928f-4a59-ad46-50f19c2325a2
+test_case_80,Needs AIM Assessment Impact Analysis,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,95517d37-b1f3-401c-ba6e-72c45533e21f,ReportSection5c45367b2b23e98ae22b,,9e687b66-5a74-4f32-8c32-aa4be70bb09d
+test_case_81,Partner Controls Dashboard,dfa0a050-3670-4822-8bb5-ff21ec7f30e1,13bccb5c-d528-4101-9fbf-01c29ff4280c,2f566aa980e958535634,,14b52029-e798-439d-878c-b2dc4f9e59e7

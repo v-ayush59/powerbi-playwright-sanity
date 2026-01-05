@@ -1,0 +1,1316 @@
+<testsuites id="" name="" tests="164" failures="6" skipped="0" errors="0" time="1582.4332019999997">
+<testsuite name="tests\paginated.spec.ts" timestamp="2026-01-05T15:21:19.263Z" hostname="" tests="1" failures="0" skipped="0" time="0.009" errors="0">
+<testcase name="Check access token (Paginated Report)" classname="tests\paginated.spec.ts" time="0.009">
+<system-out>
+<![CDATA[Checking access token...
+
+[[ATTACHMENT|tests-paginated-Check-access-token-Paginated-Report-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="tests\pbi.spec.ts" timestamp="2026-01-05T15:21:19.263Z" hostname="" tests="163" failures="6" skipped="0" time="3054.88" errors="0">
+<testcase name="Check if access token can be generated" classname="tests\pbi.spec.ts" time="0.009">
+<system-out>
+<![CDATA[Checking access token generation...
+
+[[ATTACHMENT|tests-pbi-Check-if-access-token-can-be-generated\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_1 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="1.122">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-6fe8c-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_2 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.453">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-d54a4-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_3 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="1.385">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-bd456-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_4 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.355">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-1b2bc-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_5 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.627">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-e422d-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_6 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.376">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-886bf-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_7 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.41">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-50755-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_8 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.537">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-8-6562e-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_9 - &apos;Workshop Impact Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.389">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-9-a18d6-mpact-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_10 - &apos;Special Investments Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.425">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-cd21a-ments-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_11 - &apos;Special Investments Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.409">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-702f4-ments-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_12 - &apos;Special Investments Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.37">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-fcc09-ments-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_13 - &apos;Special Investments Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.473">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-637cf-ments-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_14 - &apos;Special Investments Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="1.152">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-8147c-ments-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_15 - &apos;Special Investments Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.378">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-d24c9-ments-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_16 - &apos;Telco Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.422">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-16---Telco-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_17 - &apos;Telco Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="1.442">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-17---Telco-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_18 - &apos;Biz Apps MSX Pipeline&apos; embed token" classname="tests\pbi.spec.ts" time="0.438">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-52d4b-ps-MSX-Pipeline-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_19 - &apos;Biz Apps MSX Pipeline&apos; embed token" classname="tests\pbi.spec.ts" time="0.884">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-1-21b57-ps-MSX-Pipeline-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_20 - &apos;Biz Apps MSX Pipeline&apos; embed token" classname="tests\pbi.spec.ts" time="0.467">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-e5def-ps-MSX-Pipeline-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_21 - &apos;Biz Apps MSX Pipeline&apos; embed token" classname="tests\pbi.spec.ts" time="0.38">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-00f6a-ps-MSX-Pipeline-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_22 - &apos;Biz Apps MSX Pipeline&apos; embed token" classname="tests\pbi.spec.ts" time="0.366">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-4f6a2-ps-MSX-Pipeline-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_23 - &apos;Biz Apps MSX Pipeline&apos; embed token" classname="tests\pbi.spec.ts" time="0.405">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-11ba6-ps-MSX-Pipeline-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_24 - &apos;Biz Apps MSX Pipeline&apos; embed token" classname="tests\pbi.spec.ts" time="0.463">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-9c40c-ps-MSX-Pipeline-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_25 - &apos;Post Sales Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.407">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-ed21d-Sales-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_26 - &apos;Partner Contribution Analysis&apos; embed token" classname="tests\pbi.spec.ts" time="0.439">
+<failure message="pbi.spec.ts:38:7 Test test_case_26 - &apos;Partner Contribution Analysis&apos; embed token" type="FAILURE">
+<![CDATA[  tests\pbi.spec.ts:38:7 › Test test_case_26 - 'Partner Contribution Analysis' embed token ─────────
+
+    Error: Failed to get embed token: Bad Request
+
+       at helper-functions\token-helpers.ts:67
+
+      65 |
+      66 |   if (!response.ok) {
+    > 67 |     throw new Error(`Failed to get embed token: ${response.statusText}`);
+         |           ^
+      68 |   }
+      69 |
+      70 |   const data = await response.json();
+
+        at getReportEmbedToken (C:\Users\v-ayushsharm\Downloads\pbi-dataops-visual-error-testing-main\helper-functions\token-helpers.ts:67:11)
+        at C:\Users\v-ayushsharm\Downloads\pbi-dataops-visual-error-testing-main\tests\pbi.spec.ts:40:24
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results\tests-pbi-Test-test-case-2-10be4-bution-Analysis-embed-token\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results\tests-pbi-Test-test-case-2-10be4-bution-Analysis-embed-token\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-10be4-bution-Analysis-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_27 - &apos;Partner Contribution Analysis&apos; embed token" classname="tests\pbi.spec.ts" time="2.349">
+<failure message="pbi.spec.ts:38:7 Test test_case_27 - &apos;Partner Contribution Analysis&apos; embed token" type="FAILURE">
+<![CDATA[  tests\pbi.spec.ts:38:7 › Test test_case_27 - 'Partner Contribution Analysis' embed token ─────────
+
+    Error: Failed to get embed token: Bad Request
+
+       at helper-functions\token-helpers.ts:67
+
+      65 |
+      66 |   if (!response.ok) {
+    > 67 |     throw new Error(`Failed to get embed token: ${response.statusText}`);
+         |           ^
+      68 |   }
+      69 |
+      70 |   const data = await response.json();
+
+        at getReportEmbedToken (C:\Users\v-ayushsharm\Downloads\pbi-dataops-visual-error-testing-main\helper-functions\token-helpers.ts:67:11)
+        at C:\Users\v-ayushsharm\Downloads\pbi-dataops-visual-error-testing-main\tests\pbi.spec.ts:40:24
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results\tests-pbi-Test-test-case-2-f94d3-bution-Analysis-embed-token\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results\tests-pbi-Test-test-case-2-f94d3-bution-Analysis-embed-token\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-f94d3-bution-Analysis-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_28 - &apos;GTM Field Allocations&apos; embed token" classname="tests\pbi.spec.ts" time="1.369">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-97925-eld-Allocations-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_29 - &apos;Jumpstart Partner Usage Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.42">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-2-0e53b-Usage-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_30 - &apos;Partner Performance Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.45">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-370df-mance-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_31 - &apos;Partner Performance Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.459">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-b9bd2-mance-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_32 - &apos;Partner Performance Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.401">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-525f0-mance-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_33 - &apos;Teams Phone Qualified Tenants&apos; embed token" classname="tests\pbi.spec.ts" time="0.522">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-5b679-alified-Tenants-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_34 - &apos;Access Instructions&apos; embed token" classname="tests\pbi.spec.ts" time="0.507">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-81b97-ss-Instructions-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_35 - &apos;Access Instructions&apos; embed token" classname="tests\pbi.spec.ts" time="0.491">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-76694-ss-Instructions-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_36 - &apos;Access Instructions&apos; embed token" classname="tests\pbi.spec.ts" time="0.37">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-18880-ss-Instructions-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_37 - &apos;Biz Apps Claim Rejections&apos; embed token" classname="tests\pbi.spec.ts" time="0.4">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-6c0ce-laim-Rejections-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_38 - &apos;Biz Apps Partner Eligibility Criteria&apos; embed token" classname="tests\pbi.spec.ts" time="0.433">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-83b9b-bility-Criteria-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_39 - &apos;Biz Apps Partner Eligibility Criteria&apos; embed token" classname="tests\pbi.spec.ts" time="0.392">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-3-824d2-bility-Criteria-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_40 - &apos;Bulk Request Reporting&apos; embed token" classname="tests\pbi.spec.ts" time="0.446">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-d8166-quest-Reporting-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_41 - &apos;CSI Customer Eligibility Report&apos; embed token" classname="tests\pbi.spec.ts" time="1.219">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-57ed5-gibility-Report-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_42 - &apos;Field Initiated Requests&apos; embed token" classname="tests\pbi.spec.ts" time="0.373">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-121d0-tiated-Requests-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_43 - &apos;FY26 Partner and Customer Eligibility&apos; embed token" classname="tests\pbi.spec.ts" time="0.449">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-8147d-mer-Eligibility-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_44 - &apos;FY26 Partner and Customer Eligibility&apos; embed token" classname="tests\pbi.spec.ts" time="0.375">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-b1102-mer-Eligibility-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_45 - &apos;FY26 Partner and Customer Eligibility&apos; embed token" classname="tests\pbi.spec.ts" time="0.577">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-b73f8-mer-Eligibility-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_46 - &apos;FY26 Partner and Customer Eligibility&apos; embed token" classname="tests\pbi.spec.ts" time="0.374">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-88a81-mer-Eligibility-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_47 - &apos;FY26 Partner and Customer Eligibility&apos; embed token" classname="tests\pbi.spec.ts" time="0.359">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-f26a7-mer-Eligibility-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_48 - &apos;MCI Eligibility and Enrollment Report&apos; embed token" classname="tests\pbi.spec.ts" time="0.36">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-c404a-rollment-Report-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_49 - &apos;MCI Eligibility and Enrollment Report&apos; embed token" classname="tests\pbi.spec.ts" time="0.441">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-4-ffc83-rollment-Report-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_50 - &apos;MCI Eligibility and Enrollment Report&apos; embed token" classname="tests\pbi.spec.ts" time="0.416">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-8195b-rollment-Report-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_51 - &apos;MCI Eligibility and Enrollment Report&apos; embed token" classname="tests\pbi.spec.ts" time="0.532">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-36704-rollment-Report-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_52 - &apos;MW Platform Cost&apos; embed token" classname="tests\pbi.spec.ts" time="0.459">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-52---MW-Platform-Cost-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_53 - &apos;MW Platform Cost&apos; embed token" classname="tests\pbi.spec.ts" time="0.818">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-53---MW-Platform-Cost-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_54 - &apos;MWS Data Freshness Report&apos; embed token" classname="tests\pbi.spec.ts" time="0.973">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-4e814-reshness-Report-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_55 - &apos;SP Milestone 2 Payment Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.663">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-54c84-yment-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_56 - &apos;SP Milestone 2 Payment Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.718">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-cab24-yment-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_57 - &apos;SP Milestone 2 Payment Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.691">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-d6fde-yment-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_58 - &apos;SP Milestone 2 Payment Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.364">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-f6068-yment-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_59 - &apos;SP Milestone 2 Payment Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.407">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-5-7d522-yment-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_60 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="3.062">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-06b4d-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_61 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="1.686">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-8f077-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_62 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.491">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-84452-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_63 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.371">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-c30b3-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_64 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.358">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-cf10a-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_65 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.381">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-b9708-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_66 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.398">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-f3a14-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_67 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.403">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-69c78-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_68 - &apos;Workshop Execution Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.36">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-4b012-cution-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_69 - &apos;Workshop Survey Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.494">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-6-9bfea-Survey-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_70 - &apos;Workshop Survey Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.459">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-d7b67-Survey-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_71 - &apos;Workshop Survey Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.487">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-d4480-Survey-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_72 - &apos;Workshop Survey Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.418">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-9db14-Survey-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_73 - &apos;Workshop Survey POE&apos; embed token" classname="tests\pbi.spec.ts" time="0.456">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-6d4d9-shop-Survey-POE-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_74 - &apos;Partner Adoption Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.416">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-da6a3-option-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_75 - &apos;Partner Adoption Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.52">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-07056-option-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_76 - &apos;Partner Adoption Insights&apos; embed token" classname="tests\pbi.spec.ts" time="0.481">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-f6d83-option-Insights-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_77 - &apos;Biz Apps Cap Limit&apos; embed token" classname="tests\pbi.spec.ts" time="0.412">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-77---Biz-Apps-Cap-Limit-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_78 - &apos;Partner Claims Limit Analysis&apos; embed token" classname="tests\pbi.spec.ts" time="0.533">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-a9219--Limit-Analysis-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_79 - &apos;Rev Sum SKU Mapping Report&apos; embed token" classname="tests\pbi.spec.ts" time="0.552">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-7-7c1aa--Mapping-Report-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_80 - &apos;Needs AIM Assessment Impact Analysis&apos; embed token" classname="tests\pbi.spec.ts" time="0.633">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-8-37630-Impact-Analysis-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test test_case_81 - &apos;Partner Controls Dashboard&apos; embed token" classname="tests\pbi.spec.ts" time="0.673">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Test-test-case-8-10027-trols-Dashboard-embed-token\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_1 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="50.611">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--3b064--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_2 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="300.682">
+<failure message="pbi.spec.ts:47:7 Visual test for test_case_2 - &apos;Workshop Impact Dashboard&apos;" type="FAILURE">
+<![CDATA[  tests\pbi.spec.ts:47:7 › Visual test for test_case_2 - 'Workshop Impact Dashboard' ───────────────
+
+    Test timeout of 300000ms exceeded.
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\tests-pbi-Visual-test-for--64245--Workshop-Impact-Dashboard-\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results\tests-pbi-Visual-test-for--64245--Workshop-Impact-Dashboard-\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results\tests-pbi-Visual-test-for--64245--Workshop-Impact-Dashboard-\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--64245--Workshop-Impact-Dashboard-\test-failed-1.png]]
+
+[[ATTACHMENT|tests-pbi-Visual-test-for--64245--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_3 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="81.6">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--e3707--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_4 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="39.629">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--4bb78--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_5 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="61.365">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--81208--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_6 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="62.06">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--ec8cf--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_7 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="40.788">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--bfbb4--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_8 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="68.956">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--3816b--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_9 - &apos;Workshop Impact Dashboard&apos;" classname="tests\pbi.spec.ts" time="29.743">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--4a492--Workshop-Impact-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_10 - &apos;Special Investments Dashboard&apos;" classname="tests\pbi.spec.ts" time="22.424">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--f79a6-cial-Investments-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_11 - &apos;Special Investments Dashboard&apos;" classname="tests\pbi.spec.ts" time="22.356">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--71bd2-cial-Investments-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_12 - &apos;Special Investments Dashboard&apos;" classname="tests\pbi.spec.ts" time="26.409">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--f073b-cial-Investments-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_13 - &apos;Special Investments Dashboard&apos;" classname="tests\pbi.spec.ts" time="28.565">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--96871-cial-Investments-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_14 - &apos;Special Investments Dashboard&apos;" classname="tests\pbi.spec.ts" time="54.496">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--b3ff0-cial-Investments-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_15 - &apos;Special Investments Dashboard&apos;" classname="tests\pbi.spec.ts" time="37.977">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--8d848-cial-Investments-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_16 - &apos;Telco Dashboard&apos;" classname="tests\pbi.spec.ts" time="30.806">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for-test-case-16---Telco-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_17 - &apos;Telco Dashboard&apos;" classname="tests\pbi.spec.ts" time="31.171">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for-test-case-17---Telco-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_18 - &apos;Biz Apps MSX Pipeline&apos;" classname="tests\pbi.spec.ts" time="32.758">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--2ef1c-18---Biz-Apps-MSX-Pipeline-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_19 - &apos;Biz Apps MSX Pipeline&apos;" classname="tests\pbi.spec.ts" time="37.763">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--f5d7e-19---Biz-Apps-MSX-Pipeline-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_20 - &apos;Biz Apps MSX Pipeline&apos;" classname="tests\pbi.spec.ts" time="38.391">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--80609-20---Biz-Apps-MSX-Pipeline-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_21 - &apos;Biz Apps MSX Pipeline&apos;" classname="tests\pbi.spec.ts" time="33.696">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--7a0b0-21---Biz-Apps-MSX-Pipeline-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_22 - &apos;Biz Apps MSX Pipeline&apos;" classname="tests\pbi.spec.ts" time="29.661">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--1efa5-22---Biz-Apps-MSX-Pipeline-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_23 - &apos;Biz Apps MSX Pipeline&apos;" classname="tests\pbi.spec.ts" time="19.211">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--44e81-23---Biz-Apps-MSX-Pipeline-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_24 - &apos;Biz Apps MSX Pipeline&apos;" classname="tests\pbi.spec.ts" time="21.484">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--91a4c-24---Biz-Apps-MSX-Pipeline-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_25 - &apos;Post Sales Dashboard&apos;" classname="tests\pbi.spec.ts" time="22.899">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--a2966--25---Post-Sales-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_26 - &apos;Partner Contribution Analysis&apos;" classname="tests\pbi.spec.ts" time="3.807">
+<failure message="pbi.spec.ts:47:7 Visual test for test_case_26 - &apos;Partner Contribution Analysis&apos;" type="FAILURE">
+<![CDATA[  tests\pbi.spec.ts:47:7 › Visual test for test_case_26 - 'Partner Contribution Analysis' ──────────
+
+    Error: Failed to get embed token: Bad Request
+
+       at helper-functions\token-helpers.ts:67
+
+      65 |
+      66 |   if (!response.ok) {
+    > 67 |     throw new Error(`Failed to get embed token: ${response.statusText}`);
+         |           ^
+      68 |   }
+      69 |
+      70 |   const data = await response.json();
+
+        at getReportEmbedToken (C:\Users\v-ayushsharm\Downloads\pbi-dataops-visual-error-testing-main\helper-functions\token-helpers.ts:67:11)
+        at C:\Users\v-ayushsharm\Downloads\pbi-dataops-visual-error-testing-main\tests\pbi.spec.ts:61:24
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\tests-pbi-Visual-test-for--0c775-tner-Contribution-Analysis-\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results\tests-pbi-Visual-test-for--0c775-tner-Contribution-Analysis-\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results\tests-pbi-Visual-test-for--0c775-tner-Contribution-Analysis-\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--0c775-tner-Contribution-Analysis-\test-failed-1.png]]
+
+[[ATTACHMENT|tests-pbi-Visual-test-for--0c775-tner-Contribution-Analysis-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_27 - &apos;Partner Contribution Analysis&apos;" classname="tests\pbi.spec.ts" time="3.356">
+<failure message="pbi.spec.ts:47:7 Visual test for test_case_27 - &apos;Partner Contribution Analysis&apos;" type="FAILURE">
+<![CDATA[  tests\pbi.spec.ts:47:7 › Visual test for test_case_27 - 'Partner Contribution Analysis' ──────────
+
+    Error: Failed to get embed token: Bad Request
+
+       at helper-functions\token-helpers.ts:67
+
+      65 |
+      66 |   if (!response.ok) {
+    > 67 |     throw new Error(`Failed to get embed token: ${response.statusText}`);
+         |           ^
+      68 |   }
+      69 |
+      70 |   const data = await response.json();
+
+        at getReportEmbedToken (C:\Users\v-ayushsharm\Downloads\pbi-dataops-visual-error-testing-main\helper-functions\token-helpers.ts:67:11)
+        at C:\Users\v-ayushsharm\Downloads\pbi-dataops-visual-error-testing-main\tests\pbi.spec.ts:61:24
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\tests-pbi-Visual-test-for--e1467-tner-Contribution-Analysis-\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results\tests-pbi-Visual-test-for--e1467-tner-Contribution-Analysis-\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results\tests-pbi-Visual-test-for--e1467-tner-Contribution-Analysis-\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--e1467-tner-Contribution-Analysis-\test-failed-1.png]]
+
+[[ATTACHMENT|tests-pbi-Visual-test-for--e1467-tner-Contribution-Analysis-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_28 - &apos;GTM Field Allocations&apos;" classname="tests\pbi.spec.ts" time="24.119">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--78346-28---GTM-Field-Allocations-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_29 - &apos;Jumpstart Partner Usage Dashboard&apos;" classname="tests\pbi.spec.ts" time="17.36">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--e42f9-rt-Partner-Usage-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_30 - &apos;Partner Performance Dashboard&apos;" classname="tests\pbi.spec.ts" time="16.272">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--d6fb7-tner-Performance-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_31 - &apos;Partner Performance Dashboard&apos;" classname="tests\pbi.spec.ts" time="20.265">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--d5665-tner-Performance-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_32 - &apos;Partner Performance Dashboard&apos;" classname="tests\pbi.spec.ts" time="26.657">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--31a5f-tner-Performance-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_33 - &apos;Teams Phone Qualified Tenants&apos;" classname="tests\pbi.spec.ts" time="39.321">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--565a8-ms-Phone-Qualified-Tenants-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_34 - &apos;Access Instructions&apos;" classname="tests\pbi.spec.ts" time="32.692">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--1a646-e-34---Access-Instructions-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_35 - &apos;Access Instructions&apos;" classname="tests\pbi.spec.ts" time="28.526">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--203ef-e-35---Access-Instructions-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_36 - &apos;Access Instructions&apos;" classname="tests\pbi.spec.ts" time="20.172">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--cc8c2-e-36---Access-Instructions-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_37 - &apos;Biz Apps Claim Rejections&apos;" classname="tests\pbi.spec.ts" time="17.832">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--5e80b--Biz-Apps-Claim-Rejections-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_38 - &apos;Biz Apps Partner Eligibility Criteria&apos;" classname="tests\pbi.spec.ts" time="16.35">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--7ea31-rtner-Eligibility-Criteria-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_39 - &apos;Biz Apps Partner Eligibility Criteria&apos;" classname="tests\pbi.spec.ts" time="17.132">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--622f0-rtner-Eligibility-Criteria-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_40 - &apos;Bulk Request Reporting&apos;" classname="tests\pbi.spec.ts" time="17.992">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--b0aa2-0---Bulk-Request-Reporting-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_41 - &apos;CSI Customer Eligibility Report&apos;" classname="tests\pbi.spec.ts" time="17.77">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--bf7ce-ustomer-Eligibility-Report-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_42 - &apos;Field Initiated Requests&apos;" classname="tests\pbi.spec.ts" time="43.318">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--490f4---Field-Initiated-Requests-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_43 - &apos;FY26 Partner and Customer Eligibility&apos;" classname="tests\pbi.spec.ts" time="27.045">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--91973-r-and-Customer-Eligibility-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_44 - &apos;FY26 Partner and Customer Eligibility&apos;" classname="tests\pbi.spec.ts" time="24.535">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--01af0-r-and-Customer-Eligibility-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_45 - &apos;FY26 Partner and Customer Eligibility&apos;" classname="tests\pbi.spec.ts" time="21.026">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--9bcb4-r-and-Customer-Eligibility-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_46 - &apos;FY26 Partner and Customer Eligibility&apos;" classname="tests\pbi.spec.ts" time="24.743">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--d12cb-r-and-Customer-Eligibility-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_47 - &apos;FY26 Partner and Customer Eligibility&apos;" classname="tests\pbi.spec.ts" time="18.89">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--46c05-r-and-Customer-Eligibility-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_48 - &apos;MCI Eligibility and Enrollment Report&apos;" classname="tests\pbi.spec.ts" time="40.314">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--6af0f-lity-and-Enrollment-Report-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_49 - &apos;MCI Eligibility and Enrollment Report&apos;" classname="tests\pbi.spec.ts" time="19.083">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--18304-lity-and-Enrollment-Report-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_50 - &apos;MCI Eligibility and Enrollment Report&apos;" classname="tests\pbi.spec.ts" time="22.99">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--ae99d-lity-and-Enrollment-Report-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_51 - &apos;MCI Eligibility and Enrollment Report&apos;" classname="tests\pbi.spec.ts" time="25.491">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--d3468-lity-and-Enrollment-Report-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_52 - &apos;MW Platform Cost&apos;" classname="tests\pbi.spec.ts" time="25.515">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for-test-case-52---MW-Platform-Cost-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_53 - &apos;MW Platform Cost&apos;" classname="tests\pbi.spec.ts" time="35.609">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for-test-case-53---MW-Platform-Cost-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_54 - &apos;MWS Data Freshness Report&apos;" classname="tests\pbi.spec.ts" time="23.855">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--fdccb--MWS-Data-Freshness-Report-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_55 - &apos;SP Milestone 2 Payment Dashboard&apos;" classname="tests\pbi.spec.ts" time="61.251">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--20826-estone-2-Payment-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_56 - &apos;SP Milestone 2 Payment Dashboard&apos;" classname="tests\pbi.spec.ts" time="34.482">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--91a66-estone-2-Payment-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_57 - &apos;SP Milestone 2 Payment Dashboard&apos;" classname="tests\pbi.spec.ts" time="34.381">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--a68c7-estone-2-Payment-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_58 - &apos;SP Milestone 2 Payment Dashboard&apos;" classname="tests\pbi.spec.ts" time="30.329">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--c5e7f-estone-2-Payment-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_59 - &apos;SP Milestone 2 Payment Dashboard&apos;" classname="tests\pbi.spec.ts" time="27.491">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--9e747-estone-2-Payment-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_60 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="300.51">
+<failure message="pbi.spec.ts:47:7 Visual test for test_case_60 - &apos;Workshop Execution Insights&apos;" type="FAILURE">
+<![CDATA[  tests\pbi.spec.ts:47:7 › Visual test for test_case_60 - 'Workshop Execution Insights' ────────────
+
+    Test timeout of 300000ms exceeded.
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\tests-pbi-Visual-test-for--aad3d-orkshop-Execution-Insights-\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results\tests-pbi-Visual-test-for--aad3d-orkshop-Execution-Insights-\trace.zip
+    Usage:
+
+        npx playwright show-trace test-results\tests-pbi-Visual-test-for--aad3d-orkshop-Execution-Insights-\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--aad3d-orkshop-Execution-Insights-\test-failed-1.png]]
+
+[[ATTACHMENT|tests-pbi-Visual-test-for--aad3d-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_61 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="31.857">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--68ae6-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_62 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="33.273">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--81d69-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_63 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="32.271">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--9e446-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_64 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="33.569">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--96ca2-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_65 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="32.442">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--cd0ce-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_66 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="43.864">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--0f8cb-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_67 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="38.492">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--1c874-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_68 - &apos;Workshop Execution Insights&apos;" classname="tests\pbi.spec.ts" time="34.911">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--3809d-orkshop-Execution-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_69 - &apos;Workshop Survey Insights&apos;" classname="tests\pbi.spec.ts" time="36.072">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--abffa---Workshop-Survey-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_70 - &apos;Workshop Survey Insights&apos;" classname="tests\pbi.spec.ts" time="26.862">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--7b166---Workshop-Survey-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_71 - &apos;Workshop Survey Insights&apos;" classname="tests\pbi.spec.ts" time="20.395">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--ccb6f---Workshop-Survey-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_72 - &apos;Workshop Survey Insights&apos;" classname="tests\pbi.spec.ts" time="21.634">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--f5b71---Workshop-Survey-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_73 - &apos;Workshop Survey POE&apos;" classname="tests\pbi.spec.ts" time="22.604">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--4c1e3-e-73---Workshop-Survey-POE-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_74 - &apos;Partner Adoption Insights&apos;" classname="tests\pbi.spec.ts" time="19.792">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--a479b--Partner-Adoption-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_75 - &apos;Partner Adoption Insights&apos;" classname="tests\pbi.spec.ts" time="17.783">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--e7ea5--Partner-Adoption-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_76 - &apos;Partner Adoption Insights&apos;" classname="tests\pbi.spec.ts" time="21.022">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--02f35--Partner-Adoption-Insights-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_77 - &apos;Biz Apps Cap Limit&apos;" classname="tests\pbi.spec.ts" time="20.641">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for-test-case-77---Biz-Apps-Cap-Limit-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_78 - &apos;Partner Claims Limit Analysis&apos;" classname="tests\pbi.spec.ts" time="27.911">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--49aab-tner-Claims-Limit-Analysis-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_79 - &apos;Rev Sum SKU Mapping Report&apos;" classname="tests\pbi.spec.ts" time="30.698">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--16a13-Rev-Sum-SKU-Mapping-Report-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_80 - &apos;Needs AIM Assessment Impact Analysis&apos;" classname="tests\pbi.spec.ts" time="52.124">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--834c4-Assessment-Impact-Analysis-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Visual test for test_case_81 - &apos;Partner Controls Dashboard&apos;" classname="tests\pbi.spec.ts" time="22.077">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-pbi-Visual-test-for--1ac06-Partner-Controls-Dashboard-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
