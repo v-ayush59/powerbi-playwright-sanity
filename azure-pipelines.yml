@@ -14,6 +14,9 @@ schedules:
 pool:
   vmImage: 'ubuntu-latest'
 
+variables:
+- group: powerbi-test-secrets
+
 steps:
 - task: NodeTool@0
   displayName: 'Install Node.js'
