@@ -1,5 +1,47 @@
-import { DefaultAzureCredential, ClientSecretCredential, TokenCredential } from "@azure/identity";
+// import { DefaultAzureCredential, ClientSecretCredential, TokenCredential } from "@azure/identity";
+// import fetch from "node-fetch";
+
+// export interface TestSettings {
+//   clientId: string;
+//   tenantId: string;
+//   environment: string;
+//   federatedCredentialName?: string;
+// }
+
+// // Get Access Token using appropriate credential method
+// export async function getAccessToken(settings: TestSettings): Promise<string> {
+//   let credential: TokenCredential;
+  
+//   // Check if running in CI/CD with client secret
+//   const clientSecret = process.env.AZURE_CLIENT_SECRET || process.env.CLIENT_SECRET;
+  
+//   if (clientSecret) {
+//     // Use ClientSecretCredential for CI/CD environments
+//     console.log("Using ClientSecretCredential for authentication");
+//     credential = new ClientSecretCredential(
+//       settings.tenantId,
+//       settings.clientId,
+//       clientSecret
+//     );
+//   } else {
+//     // Use DefaultAzureCredential for local development
+//     console.log("Using DefaultAzureCredential for authentication");
+//     credential = new DefaultAzureCredential();
+//   }
+  
+//   const scope = "https://analysis.windows.net/powerbi/api/.default";
+//   const accessToken = await credential.getToken(scope);
+
+//   if (!accessToken || !accessToken.token) {
+//     throw new Error("Failed to get access token.");
+//   }
+
+//   return accessToken.token;
+// }
+
+import { WorkloadIdentityCredential, TokenCredential } from "@azure/identity";
 import fetch from "node-fetch";
+import fs from "fs";
 
 export interface TestSettings {
   clientId: string;
@@ -8,36 +50,33 @@ export interface TestSettings {
   federatedCredentialName?: string;
 }
 
-// Get Access Token using appropriate credential method
+// Get Access Token using Workload Identity Credential
 export async function getAccessToken(settings: TestSettings): Promise<string> {
-  let credential: TokenCredential;
-  
-  // Check if running in CI/CD with client secret
-  const clientSecret = process.env.AZURE_CLIENT_SECRET || process.env.CLIENT_SECRET;
-  
-  if (clientSecret) {
-    // Use ClientSecretCredential for CI/CD environments
-    console.log("Using ClientSecretCredential for authentication");
-    credential = new ClientSecretCredential(
-      settings.tenantId,
-      settings.clientId,
-      clientSecret
-    );
-  } else {
-    // Use DefaultAzureCredential for local development
-    console.log("Using DefaultAzureCredential for authentication");
-    credential = new DefaultAzureCredential();
+  // Azure DevOps OIDC token file
+  const federatedTokenPath = process.env.AZURE_FEDERATED_TOKEN_FILE;
+  if (!federatedTokenPath || !fs.existsSync(federatedTokenPath)) {
+    throw new Error("Federated token file not found. Ensure OIDC is enabled in your pipeline.");
   }
-  
+
+  const credential: TokenCredential = new WorkloadIdentityCredential({
+    tenantId: settings.tenantId,
+    clientId: settings.clientId,
+    federatedTokenFilePath: federatedTokenPath,
+  });
+
   const scope = "https://analysis.windows.net/powerbi/api/.default";
   const accessToken = await credential.getToken(scope);
 
   if (!accessToken || !accessToken.token) {
-    throw new Error("Failed to get access token.");
+    throw new Error("Failed to get access token via WorkloadIdentityCredential.");
   }
 
   return accessToken.token;
 }
+
+// --- keep all your existing helper functions --- //
+// getAPIEndpoints, createReportEmbedInfo, getReportEmbedToken, getPaginatedEmbedToken
+
 
 // Get API endpoints based on environment
 export function getAPIEndpoints(environment: string) {
